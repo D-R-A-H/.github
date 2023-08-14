@@ -2,4 +2,4 @@
 
 Development, Indicator base...
 
->> Success is a number game __ Jim Rohn
+> Success is a number game __ Jim Rohn
